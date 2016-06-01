@@ -1,1 +1,2 @@
 # unit_testing_notes
+This repository is yet another of my study repos.  The sole purpose of this repo is to keep and organize notes on unit testing.  At this point all notes are from the Unit Testing Succinctly book from Syncfusion.  Unfortunately the frameworks and tools in the book are based on windows and C#, which I am not currently using, but I'll be looking eventually at CppTest and/or some others, as well as using Make for unit testing and other testing methods.
